@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MODify",
+	"Description": "Editor tools suite which enhances the default content browser and level editor context menus, world outliner, and custom utility widgets.",
+	"Category": "Editor",
+	"CreatedBy": "MODogma",
+	"CreatedByURL": "https://www.MODogma.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UdemyCourse",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
